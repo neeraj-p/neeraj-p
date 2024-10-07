@@ -8,7 +8,7 @@ I'm a QA lead enthusiast with a focus on game and app testing on VR and AR devic
 
 ## Skills & Technologies
 
-mysql,postman,git,github,jenkins,html,java,py,selenium
+mysql,postman,git,github,jenkins,html,java,py,selenium,adb
 
 ## Top Projects
 
@@ -22,7 +22,7 @@ mysql,postman,git,github,jenkins,html,java,py,selenium
 
 ## GitHub Stats
 
-🏆 **Public Repositories:** 2  
+🏆 **Public Repositories:** 4  
 👥 **Followers:** 0  
 👤 **Following:** 0  
 
