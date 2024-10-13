@@ -8,7 +8,7 @@ I'm a QA lead enthusiast with a focus on game and app testing on VR and AR devic
 
 ## Skills & Technologies
 
-mysql,postman,git,github,jenkins,html,java,py,selenium,adb
+mysql, postman, git, github, jenkins, html, java, py, selenium, adb, C, C++
 
 ## Top Projects
 
@@ -41,7 +41,7 @@ Currently, I don't have any blog posts to share. Stay tuned for updates!
 
 ## Connect with Me
 
-{neerajpandey1206@gmail.com}
+neerajpandey1206@gmail.com
 
 ## My Talks
 
